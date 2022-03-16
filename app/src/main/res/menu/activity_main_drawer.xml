@@ -3,18 +3,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
+
     <group android:checkableBehavior="single">
         <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/home"
+            android:title="홈" />
+
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/speak"
+            android:title="개인정보" />
+        <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:icon="@drawable/speak"
+            android:title="@string/menu_study" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:icon="@drawable/word"
+            android:title="@string/menu_word" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_game"
+            android:icon="@drawable/game"
+            android:title="@string/menu_game" />
+        <item
+            android:id="@+id/nav_graph"
+            android:icon="@drawable/graph"
+            android:title="우리아이 성장 그래프" />
     </group>
 </menu>

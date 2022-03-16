@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.solution">
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 
     <application
 
@@ -13,6 +14,7 @@
         android:theme="@style/Theme.Solution.NoActionBar">
         <activity android:name=".MainActivity"></activity>
         <activity android:name=".RegisterActivity"></activity>
+
         <activity
             android:name=".LoginActivity"
 
@@ -24,6 +26,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".compliment"></activity>
     </application>
 
 </manifest>

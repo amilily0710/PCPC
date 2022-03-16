@@ -3,23 +3,67 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
+    app:startDestination="@+id/nav_main">
+
+    <fragment
+        android:id="@+id/nav_main"
+        android:name="com.example.solution.ui.Main.MainFragment"
+        android:label="홈"
+        tools:layout="@layout/fragment_main" />
 
     <fragment
         android:id="@+id/nav_home"
         android:name="com.example.solution.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:label="@string/menu_study"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_gallery"
         android:name="com.example.solution.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="단어장"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.solution.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_game"
+        android:name="com.example.solution.ui.minigame.GameFragment"
+        android:label="@string/menu_game"
+        tools:layout="@layout/fragment_game" >
+        <action
+            android:id="@+id/action_nav_game_to_nav_easy"
+            app:destination="@id/nav_easy" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_easy"
+        android:name="com.example.solution.ui.minigame.easyFragment"
+        android:label="쉬운 게임"
+        tools:layout="@layout/fragment_easy" >
+        <action
+            android:id="@+id/action_nav_easy_to_nav_result"
+            app:destination="@id/nav_result" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_result"
+        android:name="com.example.solution.ui.minigame.resultFragment"
+        android:label="결과"
+        tools:layout="@layout/fragment_result" >
+        <action
+            android:id="@+id/action_nav_result_to_nav_main"
+            app:destination="@id/nav_main" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_graph"
+        android:name="com.example.solution.ui.graph.GraphFragment"
+        android:label="성장그래프"
+        tools:layout="@layout/fragment_graph" />
+
+    <fragment
+        android:id="@+id/nav_information"
+        android:name="com.example.solution.ui.information.inforFragment"
+        android:label="개인정보"
+        tools:layout="@layout/fragment_information" >
+
+    </fragment>
 </navigation>
