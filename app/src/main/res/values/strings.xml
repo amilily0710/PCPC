@@ -7,7 +7,7 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_study">발음학습</string>
-    <string name="menu_word">단어장</string>
-    <string name="menu_game">미니게임</string>
+    <string name="menu_study">Pronunciation Learning</string>
+    <string name="menu_word">wordbook</string>
+    <string name="menu_game">minigame</string>
 </resources>

@@ -68,7 +68,7 @@ public class RegisterActivity extends AppCompatActivity {
                 if(pwd.equals(pwdcheck)) {
                     Log.d(TAG, "등록 버튼 " + email + " , " + pwd);
                     final ProgressDialog mDialog = new ProgressDialog(RegisterActivity.this);
-                    mDialog.setMessage("가입중입니다...");
+                    mDialog.setMessage("under registering...");
                     mDialog.show();
 
                     //파이어베이스에 신규계정 등록하기

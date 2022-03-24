@@ -17,13 +17,15 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.target.GlideDrawableImageViewTarget;
 import com.example.solution.R;
 import com.example.solution.ui.home.HomeViewModel;
 import com.example.solution.ui.information.inforViewModel;
 
 public class MainFragment extends Fragment {
     private MainViewModel MainViewModel;
-    ImageView imageView,imageView2,imageView3;
+    ImageView imageView,imageView2,imageView3,ra,rabbit;;
     int count=0;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
@@ -45,6 +47,15 @@ public class MainFragment extends Fragment {
         imageView = root.findViewById(R.id.star);
         imageView2 = root.findViewById(R.id.star2);
         imageView3 = root.findViewById(R.id.star3);
+        ra = root.findViewById(R.id.gif_image);
+        rabbit = root.findViewById(R.id.gif_image3);
+
+        GlideDrawableImageViewTarget gifImage = new GlideDrawableImageViewTarget(ra);
+        Glide.with(getActivity()).load(R.drawable.ra).into(gifImage);
+
+        //rabbit = (ImageView) findViewById(R.id.gif_image2);
+        GlideDrawableImageViewTarget gifImage2 = new GlideDrawableImageViewTarget(rabbit);
+        Glide.with(getActivity()).load(R.drawable.rabbit).into(gifImage2);
 
         Animation animation = AnimationUtils.loadAnimation(getActivity().getApplicationContext(), R.anim.rotate);
         //imageView.startAnimation(animation);

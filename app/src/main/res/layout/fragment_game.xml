@@ -6,6 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".ui.minigame.GameFragment">
 
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="239dp"
+        android:layout_height="213dp"
+        android:layout_marginTop="152dp"
+        android:src="@drawable/minigame"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <Button
         android:id="@+id/btnEasy"
         android:layout_width="200dp"
@@ -14,7 +24,7 @@
         android:background="#fc8c14"
 
         android:padding="10dp"
-        android:text="Easy"
+        android:text="Game"
         android:textColor="#ffffff"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -22,16 +32,6 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.556" />
-
-    <ImageView
-        android:id="@+id/imageView6"
-        android:layout_width="239dp"
-        android:layout_height="213dp"
-        android:layout_marginTop="88dp"
-        android:src="@drawable/minigame"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintVertical_bias="0.65" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -8,25 +8,25 @@
     <fragment
         android:id="@+id/nav_main"
         android:name="com.example.solution.ui.Main.MainFragment"
-        android:label="홈"
+        android:label="home"
         tools:layout="@layout/fragment_main" />
 
     <fragment
         android:id="@+id/nav_home"
         android:name="com.example.solution.ui.home.HomeFragment"
-        android:label="@string/menu_study"
+        android:label="Pronunciation Learning"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_gallery"
         android:name="com.example.solution.ui.gallery.GalleryFragment"
-        android:label="단어장"
+        android:label="wordbook"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_game"
         android:name="com.example.solution.ui.minigame.GameFragment"
-        android:label="@string/menu_game"
+        android:label="minigame"
         tools:layout="@layout/fragment_game" >
         <action
             android:id="@+id/action_nav_game_to_nav_easy"
@@ -36,7 +36,7 @@
     <fragment
         android:id="@+id/nav_easy"
         android:name="com.example.solution.ui.minigame.easyFragment"
-        android:label="쉬운 게임"
+        android:label="minigame"
         tools:layout="@layout/fragment_easy" >
         <action
             android:id="@+id/action_nav_easy_to_nav_result"
@@ -46,7 +46,7 @@
     <fragment
         android:id="@+id/nav_result"
         android:name="com.example.solution.ui.minigame.resultFragment"
-        android:label="결과"
+        android:label="result"
         tools:layout="@layout/fragment_result" >
         <action
             android:id="@+id/action_nav_result_to_nav_main"
@@ -56,13 +56,13 @@
     <fragment
         android:id="@+id/nav_graph"
         android:name="com.example.solution.ui.graph.GraphFragment"
-        android:label="성장그래프"
+        android:label="growth graph"
         tools:layout="@layout/fragment_graph" />
 
     <fragment
         android:id="@+id/nav_information"
         android:name="com.example.solution.ui.information.inforFragment"
-        android:label="개인정보"
+        android:label="Personal information"
         tools:layout="@layout/fragment_information" >
 
     </fragment>

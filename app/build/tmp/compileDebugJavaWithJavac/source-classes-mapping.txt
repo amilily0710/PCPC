@@ -1,0 +1,72 @@
+com/example/solution/MainActivity.java
+ com.example.solution.MainActivity
+ com.example.solution.MainActivity$1
+com/example/solution/AudioAdapter.java
+ com.example.solution.AudioAdapter
+ com.example.solution.AudioAdapter$MyViewHolder
+ com.example.solution.AudioAdapter$MyViewHolder$1
+ com.example.solution.AudioAdapter$OnIconClickListener
+com/example/solution/ui/gallery/GalleryFragment.java
+ com.example.solution.ui.gallery.GalleryFragment
+ com.example.solution.ui.gallery.GalleryFragment$1
+ com.example.solution.ui.gallery.GalleryFragment$2
+com/example/solution/BuildConfig.java
+ com.example.solution.BuildConfig
+com/example/solution/compliment.java
+ com.example.solution.compliment
+ com.example.solution.compliment$1
+ com.example.solution.compliment$2
+ com.example.solution.compliment$3
+com/example/solution/ui/minigame/easyFragment.java
+ com.example.solution.ui.minigame.easyFragment
+ com.example.solution.ui.minigame.easyFragment$1
+com/example/solution/ui/gallery/Fragment2.java
+ com.example.solution.ui.gallery.Fragment2
+com/example/solution/ui/gallery/GalleryViewModel.java
+ com.example.solution.ui.gallery.GalleryViewModel
+com/example/solution/ui/graph/GraphFragment.java
+ com.example.solution.ui.graph.GraphFragment
+com/example/solution/ui/minigame/resultFragment.java
+ com.example.solution.ui.minigame.resultFragment
+ com.example.solution.ui.minigame.resultFragment$1
+com/example/solution/Users.java
+ com.example.solution.Users
+com/example/solution/ui/gallery/Fragment1.java
+ com.example.solution.ui.gallery.Fragment1
+com/example/solution/ui/information/inforViewModel.java
+ com.example.solution.ui.information.inforViewModel
+ com.example.solution.ui.information.inforViewModel$1
+com/example/solution/ui/minigame/GameViewModel.java
+ com.example.solution.ui.minigame.GameViewModel
+com/example/solution/ui/home/HomeFragment.java
+ com.example.solution.ui.home.HomeFragment
+ com.example.solution.ui.home.HomeFragment$1
+com/example/solution/DataBindingTriggerClass.java
+ com.example.solution.DataBindingTriggerClass
+com/example/solution/ui/home/HomeViewModel.java
+ com.example.solution.ui.home.HomeViewModel
+com/example/solution/ui/information/inforFragment.java
+ com.example.solution.ui.information.inforFragment
+ com.example.solution.ui.information.inforFragment$1
+ com.example.solution.ui.information.inforFragment$2
+com/example/solution/ui/Main/MainViewModel.java
+ com.example.solution.ui.Main.MainViewModel
+ com.example.solution.ui.Main.MainViewModel$1
+com/example/solution/ui/Main/MainFragment.java
+ com.example.solution.ui.Main.MainFragment
+ com.example.solution.ui.Main.MainFragment$1
+ com.example.solution.ui.Main.MainFragment$2
+com/example/solution/ui/minigame/GameFragment.java
+ com.example.solution.ui.minigame.GameFragment
+ com.example.solution.ui.minigame.GameFragment$1
+com/example/solution/ui/graph/GraphViewModel.java
+ com.example.solution.ui.graph.GraphViewModel
+com/example/solution/LoginActivity.java
+ com.example.solution.LoginActivity
+ com.example.solution.LoginActivity$1
+ com.example.solution.LoginActivity$2
+ com.example.solution.LoginActivity$2$1
+com/example/solution/RegisterActivity.java
+ com.example.solution.RegisterActivity
+ com.example.solution.RegisterActivity$1
+ com.example.solution.RegisterActivity$1$1

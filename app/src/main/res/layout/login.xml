@@ -48,7 +48,7 @@
         android:layout_width="198dp"
         android:layout_height="88dp"
         android:layout_marginTop="44dp"
-        android:text="회원가입"
+        android:text="join"
         android:textSize="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -59,14 +59,15 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="261dp"
-        android:layout_height="42dp"
-        android:layout_marginTop="128dp"
-        android:text="우리 아이 발음교육"
+        android:layout_width="198dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="120dp"
+        android:gravity="center"
+        android:text="PCPC"
         android:textSize="30dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.524"
+        app:layout_constraintHorizontal_bias="0.485"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

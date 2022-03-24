@@ -13,33 +13,44 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.example.solution.R;
+import com.example.solution.ui.minigame.easyFragment;
 import com.github.mikephil.charting.charts.BarChart;
 import com.github.mikephil.charting.data.BarData;
 import com.github.mikephil.charting.data.BarDataSet;
 import com.github.mikephil.charting.data.BarEntry;
 import com.github.mikephil.charting.utils.ColorTemplate;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 
 public class GraphFragment extends Fragment {
-
+    private String time;
     private GraphViewModel graphViewModel;
-
+    private FirebaseAuth firebaseAuth;
+    private DatabaseReference databaseReference;
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         graphViewModel =
                 new ViewModelProvider(this).get(GraphViewModel.class);
         View root = inflater.inflate(R.layout.fragment_graph, container, false);
+        firebaseAuth =  FirebaseAuth.getInstance();
+        databaseReference = FirebaseDatabase.getInstance().getReference("Time");
+        time = easyFragment.time;
+
 
         BarChart barChart = root.findViewById(R.id.barChart);
 
         //샘플 데이터
         ArrayList<BarEntry> visitors = new ArrayList<>();
-        visitors.add(new BarEntry(2014, 420));
-        visitors.add(new BarEntry(2015, 450));
-        visitors.add(new BarEntry(2016, 520));
-        visitors.add(new BarEntry(2017, 620));
-        visitors.add(new BarEntry(2018, 540));
+        visitors.add(new BarEntry(1, 320));
+        visitors.add(new BarEntry(2, 450));
+        visitors.add(new BarEntry(3, 520));
+        visitors.add(new BarEntry(4, 620));
+        visitors.add(new BarEntry(5, 540));
+
 
 
         BarDataSet barDataSet = new BarDataSet(visitors, "성장");

@@ -11,7 +11,7 @@
         android:id="@+id/barChart"
         android:layout_width="410dp"
         android:layout_height="514dp"
-        android:layout_marginTop="52dp"
+        android:layout_marginTop="132dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

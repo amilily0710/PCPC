@@ -8,12 +8,12 @@
         <item
             android:id="@+id/nav_main"
             android:icon="@drawable/home"
-            android:title="홈" />
+            android:title="home" />
 
         <item
             android:id="@+id/nav_information"
             android:icon="@drawable/speak"
-            android:title="개인정보" />
+            android:title="Personal information" />
         <item
             android:id="@+id/nav_home"
             android:icon="@drawable/speak"
@@ -29,6 +29,6 @@
         <item
             android:id="@+id/nav_graph"
             android:icon="@drawable/graph"
-            android:title="우리아이 성장 그래프" />
+            android:title="growth graph" />
     </group>
 </menu>

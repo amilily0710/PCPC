@@ -16,11 +16,20 @@ import androidx.navigation.Navigation;
 
 import com.example.solution.R;
 import com.example.solution.ui.home.HomeViewModel;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
+import java.text.SimpleDateFormat;
 
 public class resultFragment extends Fragment {
     private GameViewModel gameViewModel;
     private String time;
     private TextView result;
+    private FirebaseAuth firebaseAuth;
+    private DatabaseReference databaseReference;
+
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         gameViewModel =
@@ -36,6 +45,18 @@ public class resultFragment extends Fragment {
             result.setText(time);
         }
        */
+        firebaseAuth =  FirebaseAuth.getInstance();
+        databaseReference = FirebaseDatabase.getInstance().getReference("Time");
+        result = root.findViewById(R.id.result);
+        time = easyFragment.time;
+        result.setText(time);
+
+        FirebaseUser user = firebaseAuth.getCurrentUser();
+        String email = user.getEmail();
+        //       FirebaseDatabase database = FirebaseDatabase.getInstance();
+        //       DatabaseReference reference = database.getReference("Users");
+        databaseReference.child("email").setValue(email);
+        databaseReference.child("time").setValue(time);
         Button gohome = (Button) root.findViewById(R.id.gohome);
 
         gohome.setOnClickListener(new View.OnClickListener() {
