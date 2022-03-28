@@ -1,2 +1,2 @@
-# PCPC
-sol
+# 2021 Solution Challenge - PCPC
+ 
