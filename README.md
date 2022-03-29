@@ -25,5 +25,8 @@
 I've implemented this technique, but haven't put it into app yet.
 If you put the audio file you want to translate into the './**.mp3' part, the pronunciation is displayed in the shape of a mouth.
 
+## <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> Contributors
+<img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160623067-86bcad38-96a8-4d61-b05e-77ebf647782a.png">
+
 
 
