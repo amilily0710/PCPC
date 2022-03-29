@@ -10,6 +10,7 @@
  
  <img width="400" height="250" src = "https://user-images.githubusercontent.com/75411735/160625258-383669cd-946d-4062-a963-a0f1d0cafefa.png"> 
 
+### function and usage
 <img width="700" height="350" src = "https://user-images.githubusercontent.com/75411735/160525871-6ed452ab-c1b4-44a6-b019-46b817adf0ee.png">
 <img width="700" height="350" src = "https://user-images.githubusercontent.com/75411735/160528454-35e07c8d-43ad-40ed-8600-d4dc570eebbe.png">
 <img width="700" height="350" src = "https://user-images.githubusercontent.com/75411735/160528459-2d95d632-9846-4325-a45f-eb6aeb9e750f.png">
