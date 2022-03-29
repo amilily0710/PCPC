@@ -2,7 +2,7 @@
 #### <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> PCPC is an educational platform that helps children develop language.
 
 ## <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> Goal
- <img width="300" height="300" src = "https://user-images.githubusercontent.com/75411735/160635145-2b8b89a7-c7be-4051-be63-35332e6aefdc.png"> 
+ <img width="200" height="200" src = "https://user-images.githubusercontent.com/75411735/160635145-2b8b89a7-c7be-4051-be63-35332e6aefdc.png"> 
 
 
 ## <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> Used technology
