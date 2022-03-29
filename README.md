@@ -19,7 +19,9 @@
 <img width="700" height="350" src = "https://user-images.githubusercontent.com/75411735/160623067-86bcad38-96a8-4d61-b05e-77ebf647782a.png">
 
 ## How to run
-1. Download the project(git clone 
+1. Download the project(git clone gh repo clone amilily0710/PCPC)
+2. Register and log in
+
 
 
 https://github.com/JuhuiJang0/sentence-to-image-translator/blob/master/2022_03_02_STT_ALPHABET_IMG_to_MP4_%20(2).ipynb
