@@ -34,6 +34,7 @@ This goal has been set to ensure that children can be educated in any situation.
 2. Register and log in
 3. Pronunciation Learing = (https://github.com/JuhuiJang0/sentence-to-image-translator/blob/master/2022_03_02_STT_ALPHABET_IMG_to_MP4_%20(2).ipynb) 
 I've implemented this technique, but haven't put it into app yet.
+If you go to the link, you will find the Python code.
 If you put the audio file you want to translate into the './**.mp3' part, the pronunciation is displayed in the shape of a mouth.
 
 ## <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> Contributors
