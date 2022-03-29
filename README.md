@@ -6,7 +6,7 @@
  Back-end : Firebase
  technology : Colab
  
- <img width="200" height="130" src = "https://user-images.githubusercontent.com/75411735/160624275-e038b1e6-1286-4731-b962-508327ca2c87.jpg"> <img width="200" height="130" src = "https://user-images.githubusercontent.com/75411735/160624285-551a146c-a8cc-47b6-95e3-8090cb3b9097.png"> <img width="200" height="130" src = "https://user-images.githubusercontent.com/75411735/160624292-64a6354c-8f34-4be6-8e2c-1d0d014cb90c.png">
+ <img width="400" height="250" src = "https://user-images.githubusercontent.com/75411735/160625258-383669cd-946d-4062-a963-a0f1d0cafefa.png"> 
 
 <img width="700" height="350" src = "https://user-images.githubusercontent.com/75411735/160525871-6ed452ab-c1b4-44a6-b019-46b817adf0ee.png">
 <img width="700" height="350" src = "https://user-images.githubusercontent.com/75411735/160528454-35e07c8d-43ad-40ed-8600-d4dc570eebbe.png">
