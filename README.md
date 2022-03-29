@@ -18,7 +18,7 @@
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160623058-d21b12ca-be6a-41bd-88e3-e6a4ee8295ef.png">
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160623067-86bcad38-96a8-4d61-b05e-77ebf647782a.png">
 
-## How to run
+## <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> How to run
 1. Download the project(git clone gh repo clone amilily0710/PCPC)
 2. Register and log in
 3. Pronunciation Learing = (https://github.com/JuhuiJang0/sentence-to-image-translator/blob/master/2022_03_02_STT_ALPHABET_IMG_to_MP4_%20(2).ipynb) 
