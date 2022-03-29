@@ -5,15 +5,11 @@
  <img width="200" height="200" src = "https://user-images.githubusercontent.com/75411735/160635145-2b8b89a7-c7be-4051-be63-35332e6aefdc.png"> 
  
  It has already been two years since the world was deprived of its daily life due to COVID-19.
-
 As children start wearing masks at daycare centers, language development is being delayed because they communicate with masks during the golden age of language.
-
 Children who start to encounter language through imitation are not exposed to facial expressions, mouth shapes, and gestures through masks, depriving them of opportunities for language development.
-
 The development of language and communication is closely related to cognitive development.
-
 These decisive growth factors have led us to think that we need to take action in the prolonged pandemic.
-
+This goal has been set to ensure that children can be educated in any situation.
 
 
 ## <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> Used technology
