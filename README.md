@@ -3,7 +3,9 @@
 
 ### <img width="30" heigth="30" src="https://user-images.githubusercontent.com/75411735/160313664-de1a6a0a-0d48-43c6-95ac-0842a99ddb4e.png"> Used technology
  Front-end : Android Studio
+ 
  Back-end : Firebase
+ 
  technology : Colab
  
  <img width="400" height="250" src = "https://user-images.githubusercontent.com/75411735/160625258-383669cd-946d-4062-a963-a0f1d0cafefa.png"> 
