@@ -21,7 +21,8 @@
 ## How to run
 1. Download the project(git clone gh repo clone amilily0710/PCPC)
 2. Register and log in
-3. Pronunciation Learing = (https://github.com/JuhuiJang0/sentence-to-image-translator/blob/master/2022_03_02_STT_ALPHABET_IMG_to_MP4_%20(2).ipynb) *I've implemented this technique, but haven't put it into app yet.
+3. Pronunciation Learing = (https://github.com/JuhuiJang0/sentence-to-image-translator/blob/master/2022_03_02_STT_ALPHABET_IMG_to_MP4_%20(2).ipynb) 
+I've implemented this technique, but haven't put it into app yet.
 If you put the audio file you want to translate into the './**.mp3' part, the pronunciation is displayed in the shape of a mouth.
 
 
