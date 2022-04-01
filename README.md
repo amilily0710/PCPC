@@ -25,8 +25,9 @@ This goal has been set to ensure that children can be educated in any situation.
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160525871-6ed452ab-c1b4-44a6-b019-46b817adf0ee.png">
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160528454-35e07c8d-43ad-40ed-8600-d4dc570eebbe.png">
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160528459-2d95d632-9846-4325-a45f-eb6aeb9e750f.png">
-<img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/161182125-6d41f941-290e-48a0-b84c-bf1bdee05a25.png">
-<img width ="400" height="300" src="https://user-images.githubusercontent.com/75411735/161181355-e2c8dea9-4b06-4cd9-999e-028b22ee64eb.gif">
+<img width="600" height="380" src = "https://user-images.githubusercontent.com/75411735/161182125-6d41f941-290e-48a0-b84c-bf1bdee05a25.png"><img width ="400" height="300" src="https://user-images.githubusercontent.com/75411735/161181355-e2c8dea9-4b06-4cd9-999e-028b22ee64eb.gif">
+Pronunciation Learing = (https://github.com/JuhuiJang0/sentence-to-image-translator/blob/master/2022_03_02_STT_ALPHABET_IMG_to_MP4_%20(2).ipynb) 
+f you put the audio file you want to translate into the './**.mp3' part, the pronunciation is displayed in the shape of a mouth.
 
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160528461-6ed72347-f0cd-438d-9443-fa9989dbe029.png">
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160623058-d21b12ca-be6a-41bd-88e3-e6a4ee8295ef.png">
