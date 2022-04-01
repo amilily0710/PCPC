@@ -25,7 +25,7 @@ This goal has been set to ensure that children can be educated in any situation.
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160525871-6ed452ab-c1b4-44a6-b019-46b817adf0ee.png">
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160528454-35e07c8d-43ad-40ed-8600-d4dc570eebbe.png">
 <img width="700" height="380" src = "https://user-images.githubusercontent.com/75411735/160528459-2d95d632-9846-4325-a45f-eb6aeb9e750f.png">
-<img width="600" height="380" src = "https://user-images.githubusercontent.com/75411735/161182125-6d41f941-290e-48a0-b84c-bf1bdee05a25.png"><img width ="400" height="300" src="https://user-images.githubusercontent.com/75411735/161181355-e2c8dea9-4b06-4cd9-999e-028b22ee64eb.gif" > 올림픽 축구 대표팀
+<img width="600" height="380" src = "https://user-images.githubusercontent.com/75411735/161182125-6d41f941-290e-48a0-b84c-bf1bdee05a25.png"><img width ="400" height="300" src="https://user-images.githubusercontent.com/75411735/161181355-e2c8dea9-4b06-4cd9-999e-028b22ee64eb.gif" > <올림픽 축구 대표팀>
  
 #### Pronunciation Learing = (https://github.com/JuhuiJang0/sentence-to-image-translator/blob/master/2022_03_02_STT_ALPHABET_IMG_to_MP4_%20(2).ipynb)
 #### You can enter the link, copy the code, and try running it in the COLLAB. If you put the audio file you want to translate into the './**.mp3' part, the pronunciation is displayed in the shape of a mouth.
